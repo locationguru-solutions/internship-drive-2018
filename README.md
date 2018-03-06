@@ -10,7 +10,7 @@
 ## Process
 
 * IntelliJ
-* Git [#1](https://github.com/locationguru-solutions/internship-drive-2018/issues/1)
+* Git [See #1](https://github.com/locationguru-solutions/internship-drive-2018/issues/1)
 * Maven
 * Java : Core : 6 > 7 > 8 > 9
   * Logging
