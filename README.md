@@ -10,7 +10,7 @@
 ## Process
 
 * IntelliJ
-* Git
+* Git #1
 * Maven
 * Java : Core : 6 > 7 > 8 > 9
   * Logging
