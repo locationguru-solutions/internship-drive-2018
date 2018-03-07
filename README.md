@@ -11,7 +11,7 @@
 
 * IntelliJ
 * Git [See #1](https://github.com/locationguru-solutions/internship-drive-2018/issues/1)
-* Maven
+* Maven [See #2](https://github.com/locationguru-solutions/internship-drive-2018/issues/2)
 * Java : Core : 6 > 7 > 8 > 9
   * Logging
   * JDBC
