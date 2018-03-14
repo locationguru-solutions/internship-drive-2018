@@ -14,7 +14,7 @@
 * Maven [See #2](https://github.com/locationguru-solutions/internship-drive-2018/issues/2)
 * Java : Core : 6 > 7 > 8 > 9
   * Logging [See #3](https://github.com/locationguru-solutions/internship-drive-2018/issues/3)
-  * JDBC
+  * JDBC [See #4](https://github.com/locationguru-solutions/internship-drive-2018/issues/4)
   * Collections
   * Generics
   * Multithreading
