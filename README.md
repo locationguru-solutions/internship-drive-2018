@@ -33,7 +33,7 @@
   * Servlets
     * XML
     * Annotation
-  * Rest See #10 #11
+  * Rest [See #10](https://github.com/locationguru-solutions/internship-drive-2018/issues/10) [See #11](https://github.com/locationguru-solutions/internship-drive-2018/issues/11)
   * Serialization / Deserialization
     * Jackson
   * Validations
