@@ -33,7 +33,7 @@
   * Servlets
     * XML
     * Annotation
-  * Rest
+  * Rest See #10 #11
   * Serialization / Deserialization
     * Jackson
   * Validations
