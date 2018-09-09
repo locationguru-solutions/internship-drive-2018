@@ -2,7 +2,7 @@
 
 ## Goals
 
-* Code commentss
+* Code comments
 * Site referneces
 * Code styles
   * Start brace 
