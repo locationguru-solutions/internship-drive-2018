@@ -1,4 +1,4 @@
-# Internship Drive 2018
+# Internship Drive
 
 ## Goals
 
